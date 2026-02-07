@@ -115,7 +115,7 @@ const Vibe = () => {
                         </Text>
                     ) : status === "Ready" ? (
                         <Text>
-                            {"What's Your Number ?"}
+                            {"Enter a Number to check its vibes..."}
                         </Text>
                     ) : (
                         <Text>
